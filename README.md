@@ -1,1 +1,2 @@
 # wlrbot
+Asta sucks
